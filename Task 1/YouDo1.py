@@ -1,2 +1,2 @@
-name=input("entere your name")
-print("hello,",name)
+color=input("your favorite color")
+print("favorite color is,",color)
